@@ -1,0 +1,80 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+  }
+  
+  header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+  }
+  
+  section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .chamada-texto {
+    margin-right: 5%;
+  }
+  
+  h1 {
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+
+  img {
+    height: 200px;
+  }
+  .categoria-videos {
+    display: flex;
+  }
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+  }
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+  }
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  https://cursos.alura.com.br/course/pagina-web-catalogo-videos-html-css/task/158159#:~:text=section%20%7B%0A%20%20background%3A%20rgb(184%2C%20156%2C%20213)%3B%0A%20%20padding%2Dbottom%3A%2080px%3B%0A%20%20padding%2Dtop%3A%2080px%3B%0A%20%20display%3A%20flex%3B%0A%20%20justify%2Dcontent%3A%20center%3B%0A%7D%0A%0A/*%20c%C3%B3digohttps://cursos.alura.com.br/course/pagina-web-catalogo-videos-html-css/task/158159#:~:text=section%20%7B%0A%20%20background%3A%20rgb(184%2C%20156%2C%20213)%3B%0A%20%20padding%2Dbottom%3A%2080px%3B%0A%20%20padding%2Dtop%3A%2080px%3B%0A%20%20display%3A%20flex%3B%0A%20%20justify%2Dcontent%3A%20center%3B%0A%7D%0A%0A/*%20c%C3%B3digo
